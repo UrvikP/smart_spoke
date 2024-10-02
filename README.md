@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-Welcome to the Smart Spoke project! We designed a chatbot that acts as a medical assistant. By asking questions to patients, the chatbot can help you understand more about what is happening to you and give you advice on what you can do in the immediate moment to make you feel better. The plan is to then send all the data collected to a doctor for further analysis.
+TelehealthAI is a chatbot-driven medical assistant designed to address healthcare challenges in India, where doctor shortages prevent personalized care. Using the OpenAI API and RAG pipelines, the application gathers relevant patient information through dynamic, personalized medical questions and stores the data in MongoDB. This allows doctors to review the patient's medical history and symptoms beforehand, optimizing their time and enhancing the quality of patient care. TelehealthAI also includes multilingual support and uses Auth0 for secure, personalized user access.
 Tech Stack: Javascript, NextJS, Material UI, MongoDB, OpenAI, Vercel
 Visit the website at : https://smart-spoke-woad.vercel.app/
 
